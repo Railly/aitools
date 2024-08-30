@@ -1,0 +1,7 @@
+{
+  "output_format": "markdown",
+  "ignore_patterns": [
+    "node_modules",
+    ".git"
+  ]
+}
