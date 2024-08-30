@@ -1,14 +1,26 @@
-# AITools: TypeScript/React Analyzer to Enhance LLM Coding Assistants
+<h3 align="center">
+  <img src="./logo.jpeg" width="100" alt="AITools Logo"/><br/>
+  <img src="https://raw.githubusercontent.com/crafter-station/website/main/public/transparent.png" height="30" width="0px"/>
+  AITools
+</h3>
 
-AITools is a Rust-based CLI tool that analyzes TypeScript and React projects, extracting structured information to significantly improve the accuracy of LLMs responses. 
+<p align="center">
+CLI-based LLM context builder for TypeScript and React projects 🚀
+</p>
+
+## About AITools
+
+AITools is a Rust-powered command-line tool that analyzes TypeScript and React projects, extracting structured information to enhance LLM coding assistants' accuracy and context-awareness.
+
+> While the current version focuses on TypeScript and React, we have plans to extend support to other popular languages and frameworks in the future, including Swift.
 
 ## Key Features
 
-- Hierarchical file structure analysis
-- TypeScript function signature extraction
-- Interactive file selection
-- LLM-optimized output format
-- Neovim-based detailed view
+- 🌳 Hierarchical file structure analysis
+- 🔍 TypeScript function signature extraction
+- 🔀 Interactive file selection
+- 🧠 LLM-optimized output format
+- 📝 Neovim-based detailed view
 
 ## Quick Start
 
