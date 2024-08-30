@@ -1,8 +1,9 @@
 <h3 align="center">
-  <img src="./logo.jpeg" width="100" alt="AITools Logo"/><br/>
+  <img src="./logo.jpeg" width="100" alt="AITools Logo" style="border-radius: 50%;"/><br/>
   <img src="https://raw.githubusercontent.com/crafter-station/website/main/public/transparent.png" height="30" width="0px"/>
   AITools
 </h3>
+
 
 <p align="center">
 CLI-based LLM context builder for TypeScript and React projects 🚀
